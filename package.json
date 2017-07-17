@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mattcolozzo.github.io/",
+  "homepage": "https://mattcolozzo.github.io/",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
