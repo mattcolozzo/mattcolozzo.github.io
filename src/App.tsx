@@ -1,15 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import resume from './assets/resume.pdf'
-
+import me from './assets/me.PNG'
+import guitar from './assets/guitar.JPG'
+import god from './assets/god.JPG'
+import face from './assets/face.JPG'
+const imgArr = [guitar, god, me, face];
 function App() {
+  const [img, changeImg] = useState(face)
+  
+  useEffect(() => {    
+    const timer = setInterval(() => { imageChanger()  }, 20000);
+    return () => clearInterval(timer)
+  });
+  function imageChanger() {
+    //intentionally potentially OOB to display the alt text sometimes
+   let ranNum = Math.floor(Math.random() * imgArr.length);
+   changeImg(imgArr[ranNum]);
+  }
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={img} className="App-logo" alt="the man himself" />
         <p>
-          Explore my content
+          Explore my content:
         </p>
         <ul>
           <li>
