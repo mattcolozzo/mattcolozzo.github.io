@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mattcolozzo.com/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mattcolozzo.com/static/js/main.19fe73f4.chunk.js",
+    "main.js.map": "/mattcolozzo.com/static/js/main.19fe73f4.chunk.js.map",
+    "runtime-main.js": "/mattcolozzo.com/static/js/runtime-main.b92a3af7.js",
+    "runtime-main.js.map": "/mattcolozzo.com/static/js/runtime-main.b92a3af7.js.map",
+    "static/js/2.5247c4ae.chunk.js": "/mattcolozzo.com/static/js/2.5247c4ae.chunk.js",
+    "static/js/2.5247c4ae.chunk.js.map": "/mattcolozzo.com/static/js/2.5247c4ae.chunk.js.map",
+    "index.html": "/mattcolozzo.com/index.html",
+    "precache-manifest.245ead97761ba140d99d58c4b3ccb731.js": "/mattcolozzo.com/precache-manifest.245ead97761ba140d99d58c4b3ccb731.js",
+    "service-worker.js": "/mattcolozzo.com/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mattcolozzo.com/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5247c4ae.chunk.js.LICENSE.txt": "/mattcolozzo.com/static/js/2.5247c4ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mattcolozzo.com/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92a3af7.js",
+    "static/js/2.5247c4ae.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.19fe73f4.chunk.js"
+  ]
+}
