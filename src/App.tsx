@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import resume from './assets/resume.pdf'
 
 function App() {
   return (
@@ -8,16 +9,37 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DO NOT EDIT <code>src/App.tsx</code> and save to reload.
+          Explore my content
         </p>
-        <a
+        <ul>
+          <li>
+          <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://soundcloud.com/matt-colozzo"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Muzak
         </a>
+          </li>
+          <li>
+          <a
+          className="App-link"
+          href="https://github.com/mattcolozzo"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Code
+        </a>
+          </li>
+          <li>
+            <a className="App-link"
+          href={resume}
+          target="_blank"
+          rel="noopener noreferrer">My Resume</a>
+          </li>
+        </ul>
+        
       </header>
     </div>
   );
