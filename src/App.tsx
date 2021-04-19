@@ -26,6 +26,16 @@ function App() {
           Explore my content:
         </p>
         <ul>
+        <li>
+          <a
+          className="App-link"
+          href="https://soundcloud.com/user-864322219"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Muzak2
+        </a>
+          </li>
           <li>
           <a
           className="App-link"
@@ -33,7 +43,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Muzak
+          Muzak2
         </a>
           </li>
           <li>
