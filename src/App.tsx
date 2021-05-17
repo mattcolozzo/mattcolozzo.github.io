@@ -29,6 +29,16 @@ function App() {
         <li>
           <a
           className="App-link"
+          href="https://amblier.bandcamp.com/releases"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Newest Mus
+        </a>
+          </li>
+        <li>
+          <a
+          className="App-link"
           href="https://soundcloud.com/user-864322219"
           target="_blank"
           rel="noopener noreferrer"
@@ -43,7 +53,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Muzak2
+          0ld Music
         </a>
           </li>
           <li>
