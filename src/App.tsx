@@ -29,7 +29,7 @@ function App() {
         <li>
           <a
           className="App-link"
-          href="https://amblier.bandcamp.com/releases"
+          href="https://the-ambler.bandcamp.com/releases"
           target="_blank"
           rel="noopener noreferrer"
         >
