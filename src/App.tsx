@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import resume from './assets/resume.pdf'
 import me from './assets/me.PNG'
 import guitar from './assets/guitar.JPG'
 import god from './assets/god.JPG'
@@ -23,7 +22,7 @@ function App() {
       <header className="App-header">
         <img src={img} className="App-logo" alt="the man himself" />
         <p>
-          Explore my content:
+          things:
         </p>
         <ul>
         <li>
@@ -39,21 +38,11 @@ function App() {
         <li>
           <a
           className="App-link"
-          href="https://soundcloud.com/user-864322219"
+          href="https://www.youtube.com/user/Dwexen/videos"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Muzak2
-        </a>
-          </li>
-          <li>
-          <a
-          className="App-link"
-          href="https://soundcloud.com/matt-colozzo"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          0ld Music
+          youtube
         </a>
           </li>
         </ul>
