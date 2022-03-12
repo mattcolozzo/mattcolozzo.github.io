@@ -56,22 +56,6 @@ function App() {
           0ld Music
         </a>
           </li>
-          <li>
-          <a
-          className="App-link"
-          href="https://github.com/mattcolozzo"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Code
-        </a>
-          </li>
-          <li>
-            <a className="App-link"
-          href={resume}
-          target="_blank"
-          rel="noopener noreferrer">My Resume</a>
-          </li>
         </ul>
         
       </header>
