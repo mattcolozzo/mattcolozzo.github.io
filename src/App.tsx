@@ -45,6 +45,16 @@ function App() {
           youtube
         </a>
           </li>
+          <li>
+          <a
+          className="App-link"
+          href="https://dice.fm/event/wy9gx-mike-fuller-the-best-around-ambler-milky-bones-lja-10th-apr-the-map-room-at-the-bowery-electric-new-york-tickets"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         tickets for 4/10/22 show at bowery electric
+        </a>
+          </li>
         </ul>
         
       </header>
