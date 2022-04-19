@@ -26,6 +26,11 @@ function App() {
         </p>
         <ul>
         <li>
+        <p>
+          EMAIL: mattcolozzo@gmail.com
+        </p>
+          </li>
+        <li>
           <a
           className="App-link"
           href="https://open.spotify.com/album/74mXqOlgt8Vn6ObQoYbQr2?si=FOm3OYYERial2DXUtcacRQ"
@@ -45,6 +50,16 @@ function App() {
           Newest Mus
         </a>
           </li>
+          <li>
+          <a
+          className="App-link"
+          href="https://www.instagram.com/ambleramblerambler/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         instagram
+        </a>
+          </li>
         <li>
           <a
           className="App-link"
@@ -55,6 +70,7 @@ function App() {
           youtube
         </a>
           </li>
+          
           <li>
           <a
           className="App-link"
