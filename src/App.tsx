@@ -28,6 +28,16 @@ function App() {
         <li>
           <a
           className="App-link"
+          href="https://open.spotify.com/album/74mXqOlgt8Vn6ObQoYbQr2?si=FOm3OYYERial2DXUtcacRQ"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Spotify (LIVE RECORDING JUST POSTED)
+        </a>
+          </li>
+        <li>
+          <a
+          className="App-link"
           href="https://the-ambler.bandcamp.com/releases"
           target="_blank"
           rel="noopener noreferrer"
